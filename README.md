@@ -11,4 +11,4 @@ Contraseña común : Password1!
 
 *Desde el editor crear redactores para ir probando funcionalidades.
 
-*La app trabaja en memoria (la BD esta comentada en Program.cs, probar la BD descomentando y cambiando el String de conexio
+*La app trabaja en memoria (la BD esta comentada en Program.cs, probar a una BD descomentando y cambiando el String de conexion.
