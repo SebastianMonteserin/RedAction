@@ -1,6 +1,6 @@
 # ProyectoRedaccion
 
-App de gestión notas periodísticas y sus redactores hecha con .NET
+App de gestión notas periodísticas y sus redactores hecha con .NET.
 Control de tipos de usuarios (usuarios redactores, y un editor general que puede crear nuevos perfiles redactores)
 Los redactores crean notas periodísticas y las pueden mantener como borrador o enviar a aprobar al editor. El editor puede devolverla con correcciones o publicarlas.
 
