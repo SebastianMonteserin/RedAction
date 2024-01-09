@@ -1,4 +1,4 @@
-# ProyectoRedaccion
+# Proyecto RedAction
 
 App de gestión notas periodísticas y sus redactores hecha con .NET.
 Control de tipos de usuarios (usuarios redactores, y un editor general que puede crear nuevos perfiles redactores)
